@@ -3,7 +3,7 @@ def third_challenge
    :montague => {
       :patriarch => {
         :name =>
-        :age
+        :age =>
         },
       :matriarch => {
         :name
