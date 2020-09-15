@@ -23,10 +23,10 @@ def third_challenge
         },
       :matriarch => {
         :name =>
-        :age
+        :age =>
         },
       :heroine => {
-        :name
+        :name =>
         :age
         :status
         },
